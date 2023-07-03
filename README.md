@@ -8,6 +8,13 @@ Crypto economics is a new discipline born after the rise of virtual currencies a
 economics, and game theory. The school aims at disseminating  knowledge about the foundations and the applications of these technologies to researchers, PhD students, scholars and technologists in industry and academia, not excluding under- or new graduates with strong technical drive and a sufficient background.
 
 
+## Important dates
+
+- Application deadline: **July 23, 2023**
+- Notification: July 30, 2022
+- School dates: September 12-15, 2023
+
+
 ## Venue
 
 The school, which is planned as a physical, in-person event, will be hosted at the [Department of Mathematics and Computer Science](https://goo.gl/maps/jjzgXGtSLtVBSrDu9) of the University of Cagliari (Italy).
@@ -18,18 +25,11 @@ The city center can be reached from the [Cagliari airport](http://www.sogaer.it/
 
 ## Registration & selection
 
-The school plans for a maximum of 20 attendees; the attendance to the school is **FREE**, while travel and accommodation expenses are to be paid by participants (there are several affordable accommodations in Cagliari). 
+The school plans for a maximum of 20 attendees; the attendance to the school is **free**, while travel and accommodation expenses are to be paid by participants (there are several affordable accommodations in Cagliari). 
 The participants will be selected by the scientific  committee on a CV best-match basis.
+All sessions will be held in English.
 
-Registration link:
-*TODO*
-
-
-## Important dates
-
-- Application deadline: July 23, 2023
-- Notification: July 30, 2022
-- School dates: September 12-15, 2023
+**Registration link**: *TODO*
 
 
 ## School programme
@@ -71,7 +71,7 @@ The school will also feature several practical sessions covering dapps developme
 
 ## Scientific Committee
 
-- Massimo Bartoletti, University of Cagliari, Italy
+- [Massimo Bartoletti](https://blockchain.unica.it), University of Cagliari, Italy
 - Roberto Tonelli, University of Cagliari, Italy (chair)
 - Giuseppe Destefanis, Brunel University London (UK)
 
