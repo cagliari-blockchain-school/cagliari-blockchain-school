@@ -34,7 +34,7 @@ All sessions will be held in English.
 
 ## School programme
 
-**Which Smart Contracts Platform do you need? Evaluating Blockchain Systems with an Analysis of the Top Eight Protocols**
+**Which Smart Contracts Platform do you need? Evaluating Blockchain Systems with an Analysis of the Top Protocols**
 
 Massimo Bartoletti, University of Cagliari (IT)
 
