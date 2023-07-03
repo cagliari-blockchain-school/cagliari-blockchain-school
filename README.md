@@ -72,7 +72,7 @@ The school will also feature several practical sessions covering dapps developme
 ## Scientific Committee
 
 - [Massimo Bartoletti](https://blockchain.unica.it), University of Cagliari, Italy
-- Roberto Tonelli, University of Cagliari, Italy (chair)
+- [Roberto Tonelli](https://www.unica.it/unica/it/ateneo_s07_ss01.page?contentId=SHD31003), University of Cagliari, Italy (chair)
 - Giuseppe Destefanis, Brunel University London (UK)
 
 
