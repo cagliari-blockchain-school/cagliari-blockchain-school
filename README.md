@@ -10,7 +10,10 @@ economics, and game theory. The school aims at disseminating  knowledge about th
 
 ## Venue
 
-The school, which is planned as a physical, in-person event, will be hosted at the Department of Mathematics and Computer Science of the University of Cagliari (Italy).
+The school, which is planned as a physical, in-person event, will be hosted at the [Department of Mathematics and Computer Science](https://goo.gl/maps/jjzgXGtSLtVBSrDu9) of the University of Cagliari (Italy).
+
+The venue is in the city center, close to the historical area of Castello. 
+The city center can be reached from the [Cagliari airport](http://www.sogaer.it/it) in 15' by taxi (it costs around 20 EUR), or by train.
 
 
 ## Registration & selection
