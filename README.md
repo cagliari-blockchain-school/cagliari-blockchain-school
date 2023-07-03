@@ -62,9 +62,6 @@ Rumyana Neykova, Brunel University (UK)
 
 Julien Lange, Royal Halloway (UK)
 
-**Massimo Bartoletti (University of Cagliari)**
-
-Decentralized Finance (DeFi)
 
 The school will also feature several practical sessions covering dapps development. 
 
