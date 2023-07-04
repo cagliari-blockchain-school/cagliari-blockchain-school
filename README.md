@@ -1,8 +1,6 @@
 # 4th Scientific School on Blockchain & Distributed Ledger Technologies
 
-Cagliari, Sardinia, Italy
-
-*September 12-15, 2023*
+**Cagliari (Italy), September 12-15, 2023**
 
 Crypto economics is a new discipline born after the rise of virtual currencies and distributed ledger technologies, and is rapidly developing in a unique intersection between computing, cryptography,  law,
 economics, and game theory. The school aims at disseminating  knowledge about the foundations and the applications of these technologies to researchers, PhD students, scholars and technologists in industry and academia, not excluding under- or new graduates with strong technical drive and a sufficient background.
