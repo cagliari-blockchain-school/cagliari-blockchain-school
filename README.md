@@ -54,14 +54,6 @@ Cosimo Laneve, University of Bologna (IT)
 
 Fabio Caccioli, UCL (UK)
 
-**Analysis and auditing tools for Smart Contracts**
-
-Rumyana Neykova, Brunel University (UK)
-
-**Verification of the Ethereum go-client**
-
-Julien Lange, Royal Halloway (UK)
-
 
 The school will also feature several practical sessions covering dapps development. 
 
