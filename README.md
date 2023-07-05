@@ -1,4 +1,4 @@
-![image](_layouts/intro-bg.jpg)
+![image](intro-bg.jpg)
 
 # 4th Scientific School on Blockchain & Distributed Ledger Technologies
 
