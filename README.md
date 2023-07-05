@@ -72,7 +72,7 @@ Giuseppe Destefanis, Brunel University (UK)
 ## Past editions
 
 - [2022](https://www.agile-group.org/blockchainsummerschool/)
-- [2019](../2019)
+- [2019](2019/)
 - [2018]()
 
 
