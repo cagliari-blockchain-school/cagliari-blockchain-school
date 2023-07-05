@@ -22,7 +22,7 @@ The school, which is planned as a physical, in-person event, will be hosted at t
 The venue is in the city center, close to the historical area of Castello. 
 The city center can be reached from the [Cagliari airport](http://www.sogaer.it/it) in 15' by taxi (it costs around 20 EUR), or by train.
 
-In the center of Cagliari there are several affordable accomodation opportunities: check [bed-and-breakfast.it](https://www.bed-and-breakfast.it/lista_strutture_ur.cfm?locale=it&zona=Castello&citta=Cagliari&idregione=14) and
+In the center of Cagliari there are several affordable accommodation opportunities: check [bed-and-breakfast.it](https://www.bed-and-breakfast.it/lista_strutture_ur.cfm?locale=it&zona=Castello&citta=Cagliari&idregione=14) and
 [airbnb.it](https://www.airbnb.it/rooms/6619495?source_impression_id=p3_1688053073_kJI5XWcXBEsz1r%2B1).
 
 
@@ -67,6 +67,13 @@ Giuseppe Destefanis, Brunel University (UK)
 - [Massimo Bartoletti](https://blockchain.unica.it), University of Cagliari, Italy
 - [Roberto Tonelli](https://www.unica.it/unica/it/ateneo_s07_ss01.page?contentId=SHD31003), University of Cagliari, Italy (chair)
 - Giuseppe Destefanis, Brunel University London (UK)
+
+
+## Past editions
+
+- [2022](https://www.agile-group.org/blockchainsummerschool/)
+- [2019]()
+- [2018]()
 
 
 ## Acknowledgements
