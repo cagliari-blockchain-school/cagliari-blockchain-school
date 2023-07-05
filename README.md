@@ -54,8 +54,9 @@ Cosimo Laneve, University of Bologna (IT)
 
 Fabio Caccioli, UCL (UK)
 
+**Analysis and auditing tools for Smart Contracts**
 
-The school will also feature several practical sessions covering dapps development. 
+Giuseppe Destefanis, Brunel University (UK)
 
 
 ## Scientific Committee
