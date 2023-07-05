@@ -1,4 +1,4 @@
-![image](intro-bg.jpg)
+![image](../intro-bg.jpg)
 
 # 3rd Scientific School on Blockchain & Distributed Ledger Technologies
 
