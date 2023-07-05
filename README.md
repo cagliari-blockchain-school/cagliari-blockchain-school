@@ -15,12 +15,15 @@ economics, and game theory. The school aims at disseminating  knowledge about th
 - School dates: September 12-15, 2023
 
 
-## Venue
+## Venue & accommodation
 
 The school, which is planned as a physical, in-person event, will be hosted at the [Department of Mathematics and Computer Science](https://goo.gl/maps/jjzgXGtSLtVBSrDu9) of the University of Cagliari (Italy).
 
 The venue is in the city center, close to the historical area of Castello. 
 The city center can be reached from the [Cagliari airport](http://www.sogaer.it/it) in 15' by taxi (it costs around 20 EUR), or by train.
+
+In the center of Cagliari there are several affordable accomodation opportunities: check [bed-and-breakfast.it](https://www.bed-and-breakfast.it/lista_strutture_ur.cfm?locale=it&zona=Castello&citta=Cagliari&idregione=14) and
+[airbnb.it](https://www.airbnb.it/rooms/6619495?source_impression_id=p3_1688053073_kJI5XWcXBEsz1r%2B1).
 
 
 ## Registration & selection
