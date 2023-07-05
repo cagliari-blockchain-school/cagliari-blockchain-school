@@ -1,3 +1,5 @@
+![image](_layouts/intro-bg.jpg)
+
 # 4th Scientific School on Blockchain & Distributed Ledger Technologies
 
 **Cagliari (Italy), September 12-15, 2023**
