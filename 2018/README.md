@@ -68,7 +68,7 @@ Massimo Bartoletti, Livio Pompianu,Alessandro Sebastian Podda, Nicola Atzei (Uni
 Mauro Pili, Andrea Pinna, Marco Ortu, Simona Ibba (Univ. Cagliari). 
 
 
-# Scientific Committee
+## Scientific Committee
 
 - Massimo Bartoletti, University of Cagliari
 - Davide Carboni, CRS4 Pula (chair)
