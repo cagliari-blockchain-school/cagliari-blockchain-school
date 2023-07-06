@@ -61,6 +61,10 @@ Fabio Caccioli, UCL (UK)
 
 Giuseppe Destefanis, Brunel University (UK)
 
+**Data Management for Crowd-sensed and Self Sovereign Data**
+
+Stefano Ferretti, University of Urbino (IT)
+
 
 ## Scientific Committee
 
