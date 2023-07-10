@@ -11,7 +11,7 @@ economics, and game theory. The school aims at disseminating  knowledge about th
 ## Important dates
 
 - Application deadline: **July 23, 2023**
-- Notification: July 30, 2022
+- Notification: July 30, 2023
 - School dates: September 12-15, 2023
 
 
