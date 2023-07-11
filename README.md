@@ -1,4 +1,4 @@
-![image](intro-bg.jpg)
+![image](4th-dlt-school-logo.jpg)
 
 # 4th Scientific School on Blockchain & Distributed Ledger Technologies
 
