@@ -45,6 +45,10 @@ Massimo Bartoletti, University of Cagliari (IT)
 
 Roberto Tonelli and Andrea Pinna, University of Cagliari (IT)
 
+**TBD: IOTA**
+
+Mirko Zichichi, IOTA Foundation
+
 **Network theory for Decentralized Applications**
 
 Silvia Bartolucci, UCL (UK)
