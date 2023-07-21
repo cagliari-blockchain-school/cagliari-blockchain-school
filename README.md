@@ -45,7 +45,11 @@ Massimo Bartoletti, University of Cagliari (IT)
 
 Roberto Tonelli and Andrea Pinna, University of Cagliari (IT)
 
-**TBD: IOTA**
+**Introduction to the IOTA Tangle**
+
+TBD, Mirko Zichichi, IOTA Foundation
+
+**IOTA Smart Contracts and Move Tutorial**
 
 Mirko Zichichi, IOTA Foundation
 
