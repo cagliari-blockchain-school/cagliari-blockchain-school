@@ -19,9 +19,9 @@ The school will take place in room III (2nd floor) of the [Palazzo delle Scienze
 | **10.30-11:00** | **Coffee break** | 
 | 11:00-12:30 | A. Pinna, R. Tonelli - Developing Dapps in Ethereum: Theory and Practice (Pt. 2) |
 | **12:30-14:00** | **Lunch break** |
-| 14:00-15:30 | C. Laneve - Legal smart contracts |
+| 14:00-15:30 | S. Bartolucci - Network theory for Decentralized Applications |
 | **15:30-16:00** | **Coffee break** |
-| 16:00-17:30 | S. Bartolucci - Network theory for Decentralized Applications |
+| 16:00-17:30 | C. Laneve - Legal smart contracts |
 
 ## September 14, 2023
 
@@ -39,7 +39,7 @@ The school will take place in room III (2nd floor) of the [Palazzo delle Scienze
 
 | Time   | Lecture |
 | :---: | :---: |
-| 9:00-10:30 | TBD, Introduction to the IOTA Tangle | 
+| 9:00-10:30 | TBD - Introduction to the IOTA Tangle | 
 | **10.30-11:00** | **Coffee break** | 
 | 11:00-12:30 | M. Zichichi - IOTA Smart Contracts and Move Tutorial |
 | **12:30-14:00** | **Closing and Lunch** |
