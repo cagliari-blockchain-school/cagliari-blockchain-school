@@ -35,7 +35,7 @@ All sessions will be held in English.
 **Registration link**: [forms.gle/do7UXmrNiV7PVg4j8](https://forms.gle/do7UXmrNiV7PVg4j8)
 
 
-## School programme
+## Lectures
 
 **Which Smart Contracts Platform do you need? Evaluating Blockchain Systems with an Analysis of the Top Protocols**
 
@@ -73,6 +73,10 @@ Giuseppe Destefanis, Brunel University (UK)
 
 Stefano Ferretti, University of Urbino (IT)
 
+
+## Programme
+
+Go to the [programme page](programme.md).
 
 ## Scientific Committee
 
