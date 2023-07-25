@@ -47,7 +47,7 @@ Roberto Tonelli and Andrea Pinna, University of Cagliari (IT)
 
 **Introduction to the IOTA Tangle**
 
-TBD, Mirko Zichichi, IOTA Foundation
+Can Umut Ileri, IOTA Foundation & Delft University of Technology
 
 **IOTA Smart Contracts and Move Tutorial**
 
