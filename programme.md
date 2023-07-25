@@ -39,7 +39,7 @@ The school will take place in room III (2nd floor) of the [Palazzo delle Scienze
 
 | Time   | Lecture |
 | :---: | :---: |
-| 9:00-10:30 | TBD - Introduction to the IOTA Tangle | 
+| 9:00-10:30 | Can Umut Ileri - Introduction to the IOTA Tangle | 
 | **10.30-11:00** | **Coffee break** | 
 | 11:00-12:30 | M. Zichichi - IOTA Smart Contracts and Move Tutorial |
 | **12:30-14:00** | **Closing and Lunch** |
