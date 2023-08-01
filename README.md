@@ -82,7 +82,7 @@ Go to the [programme page](programme.md).
 
 - [Massimo Bartoletti](https://blockchain.unica.it), University of Cagliari, Italy
 - [Roberto Tonelli](https://www.unica.it/unica/it/ateneo_s07_ss01.page?contentId=SHD31003), University of Cagliari, Italy (chair)
-- Giuseppe Destefanis, Brunel University London (UK)
+- [Giuseppe Destefanis](https://www.brunel.ac.uk/people/giuseppe-destefanis), Brunel University London (UK)
 
 
 ## Past editions
