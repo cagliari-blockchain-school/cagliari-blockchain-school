@@ -94,4 +94,4 @@ Go to the [programme page](programme.md).
 
 ## Acknowledgements
 
-The school is organised thanks to the economic and organising support of the University of Cagliari.
+The school is organised thanks to the economic and organising support of the University of Cagliari and of the IOTA Foundation.
