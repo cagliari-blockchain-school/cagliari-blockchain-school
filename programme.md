@@ -19,9 +19,9 @@ The school will take place in room III (2nd floor) of the [Palazzo delle Scienze
 | **10.30-11:00** | **Coffee break** | 
 | 11:00-12:30 | A. Pinna, R. Tonelli - Developing Dapps in Ethereum: Theory and Practice (Pt. 2) |
 | **12:30-14:00** | **Lunch break** |
-| 14:00-15:30 | S. Bartolucci - Network theory for Decentralized Applications |
+| 14:00-15:30 | C. Laneve - Legal smart contracts |
 | **15:30-16:00** | **Coffee break** |
-| 16:00-17:30 | C. Laneve - Legal smart contracts |
+| 16:00-17:30 | S. Bartolucci - Network theory for Decentralized Applications |
 
 ## September 14, 2023
 
