@@ -10,6 +10,7 @@ The school will take place in room III (2nd floor) of the [Palazzo delle Scienze
 | 14:30-16:00 | M. Bartoletti - Which Smart Contracts Platform do you need? (Pt. 1) | 
 | **16:00-16:30** | **Coffee break** |
 | 16:30-18:00 | A. Pinna, R. Tonelli - Developing Dapps in Ethereum: Theory and Practice (Pt. 1) |
+| 18:00-18:30 | R. Tonelli - Results from the project "Analysis of innovative Blockchain technologies: Libra, Bitcoin and Ethereum and technological, economical and social comparison among these different blockchain technologies." supported by Fondazione di Sardegna - annualità 2019 |
 
 ## September 13, 2023
 
