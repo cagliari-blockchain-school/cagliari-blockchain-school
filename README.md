@@ -96,7 +96,7 @@ Go to the [programme page](programme.md).
 
 The school is organised thanks to the economic and organising support of the University of Cagliari and of the IOTA Foundation.
 
-## After the school, September 15, 2023, from 16:00 to 18:00
+## After the school, September 15, 2023, from 16:00 to 18:30
 
 https://www.eventbrite.it/e/biglietti-blockchain-summerforum-2o23-the-social-impact-of-crypto-activities-704307461577?aff=oddtdtcreator&fbclid=IwAR0Ftt1u3hO0XViW-1tZl2qmCmCW7JCG2lBJdgwHrBcTG8wyBwlkRa5d8ao
 
