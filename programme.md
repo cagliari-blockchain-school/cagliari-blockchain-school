@@ -27,7 +27,7 @@ The school will take place in room III (2nd floor) of the [Palazzo delle Scienze
 
 ## Dinner - September 13:
 
-Viale Armando Diaz , 95 Viale Colombo , 22, 09126, Cagliari, Sardegna Italia+39 070 664487
+Viale Armando Diaz 95 - Viale Colombo 22, 09126, Cagliari, Sardegna Italia+39 070 664487
 https://www.facebook.com/TreArchiCagliari
 
 
