@@ -24,6 +24,11 @@ The school will take place in room III (2nd floor) of the [Palazzo delle Scienze
 | **15:30-16:00** | **Coffee break** |
 | 16:00-17:30 | S. Bartolucci - Network theory for Decentralized Applications |
 
+
+## Dinner:
+Viale Armando Diaz , 95 Viale Colombo , 22, 09126, Cagliari, Sardegna Italia+39 070 664487
+https://www.facebook.com/TreArchiCagliari
+
 ## September 14, 2023
 
 | Time   | Lecture |
@@ -44,3 +49,8 @@ The school will take place in room III (2nd floor) of the [Palazzo delle Scienze
 | **10.30-11:00** | **Coffee break** | 
 | 11:00-12:30 | M. Zichichi - IOTA Smart Contracts and Move Tutorial |
 | **12:30-14:00** | **Closing and Lunch** |
+
+
+## After the school, September 15, 2023, from 16:00 to 18:00
+
+https://www.eventbrite.it/e/biglietti-blockchain-summerforum-2o23-the-social-impact-of-crypto-activities-704307461577?aff=oddtdtcreator&fbclid=IwAR0Ftt1u3hO0XViW-1tZl2qmCmCW7JCG2lBJdgwHrBcTG8wyBwlkRa5d8ao
