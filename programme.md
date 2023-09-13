@@ -23,13 +23,7 @@ The school will take place in room III (2nd floor) of the [Palazzo delle Scienze
 | 14:00-15:30 | C. Laneve - Legal smart contracts |
 | **15:30-16:00** | **Coffee break** |
 | 16:00-17:30 | S. Bartolucci - Network theory for Decentralized Applications |
-
-
-## Dinner - September 13:
-
-Viale Armando Diaz 95 - Viale Colombo 22, 09126, Cagliari, Sardegna Italia+39 070 664487
-https://www.facebook.com/TreArchiCagliari
-
+| **20:00-23:00** | **Social dinner at [Tre archi](https://www.facebook.com/TreArchiCagliari)**, V.le Armando Diaz 95 [\[map\]](https://goo.gl/maps/crv9N5SsUxC8BwCTA)|
 
 ## September 14, 2023
 
@@ -50,9 +44,5 @@ https://www.facebook.com/TreArchiCagliari
 | 9:00-10:30 | Can Umut Ileri - Introduction to the IOTA Tangle | 
 | **10.30-11:00** | **Coffee break** | 
 | 11:00-12:30 | M. Zichichi - IOTA Smart Contracts and Move Tutorial |
-| **12:30-14:00** | **Closing and Lunch** |
-
-
-## After the school, September 15, 2023, from 16:00 to 18:30
-
-https://www.eventbrite.it/e/biglietti-blockchain-summerforum-2o23-the-social-impact-of-crypto-activities-704307461577?aff=oddtdtcreator&fbclid=IwAR0Ftt1u3hO0XViW-1tZl2qmCmCW7JCG2lBJdgwHrBcTG8wyBwlkRa5d8ao
+| **12:30-14:00** | **Lunch** |
+| 16.00-18.30 | Post-school event: [Blockchain Summerforum 2O23](https://www.eventbrite.it/e/biglietti-blockchain-summerforum-2o23-the-social-impact-of-crypto-activities-704307461577?aff=oddtdtcreator&fbclid=IwAR0Ftt1u3hO0XViW-1tZl2qmCmCW7JCG2lBJdgwHrBcTG8wyBwlkRa5d8ao) |
