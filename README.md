@@ -82,6 +82,9 @@ Stefano Ferretti, University of Urbino (IT)
 
 Go to the [programme page](programme.md).
 
+After the school, the students are invited to join the [Blockchain Summerforum 2O23](https://www.eventbrite.it/e/biglietti-blockchain-summerforum-2o23-the-social-impact-of-crypto-activities-704307461577?aff=oddtdtcreator&fbclid=IwAR0Ftt1u3hO0XViW-1tZl2qmCmCW7JCG2lBJdgwHrBcTG8wyBwlkRa5d8ao), which will be on September 15, from 16:00 to 18:30 at [Ex Manifattura Tabacchi](https://goo.gl/maps/2qoN3T1Deyn4pPAF6). 
+ 
+
 ## Scientific Committee
 
 - [Massimo Bartoletti](https://blockchain.unica.it), University of Cagliari, Italy
@@ -100,7 +103,4 @@ Go to the [programme page](programme.md).
 
 The school is organised thanks to the economic and organising support of the University of Cagliari and of the IOTA Foundation.
 
-## After the school, September 15, 2023, from 16:00 to 18:30
-
-https://www.eventbrite.it/e/biglietti-blockchain-summerforum-2o23-the-social-impact-of-crypto-activities-704307461577?aff=oddtdtcreator&fbclid=IwAR0Ftt1u3hO0XViW-1tZl2qmCmCW7JCG2lBJdgwHrBcTG8wyBwlkRa5d8ao
 
