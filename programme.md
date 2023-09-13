@@ -23,7 +23,7 @@ The school will take place in room III (2nd floor) of the [Palazzo delle Scienze
 | 14:00-15:30 | C. Laneve - Legal smart contracts |
 | **15:30-16:00** | **Coffee break** |
 | 16:00-17:30 | S. Bartolucci - Network theory for Decentralized Applications |
-| **20:00-23:00** | **Social dinner at [Tre archi](https://www.facebook.com/TreArchiCagliari)**, V.le Armando Diaz 95 [\[map\]](https://goo.gl/maps/crv9N5SsUxC8BwCTA)|
+| **20:30-23:00** | **Social dinner at [Tre archi](https://www.facebook.com/TreArchiCagliari)**, V.le Armando Diaz 95 [\[map\]](https://goo.gl/maps/crv9N5SsUxC8BwCTA)|
 
 ## September 14, 2023
 
