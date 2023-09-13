@@ -41,6 +41,8 @@ All sessions will be held in English.
 
 Massimo Bartoletti, University of Cagliari (IT)
 
+[\[slides\]](https://docs.google.com/presentation/d/1Zw9cQ5CvJUYoig7vU1lFYrRPqV_U2YzYCfWXas2XEXo/edit?usp=sharing)
+
 **Developing Dapps in Ethereum: Theory and Practice**
 
 Roberto Tonelli and Andrea Pinna, University of Cagliari (IT)
