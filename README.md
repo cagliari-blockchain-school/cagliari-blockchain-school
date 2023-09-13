@@ -47,6 +47,8 @@ Massimo Bartoletti, University of Cagliari (IT)
 
 Roberto Tonelli and Andrea Pinna, University of Cagliari (IT)
 
+[\[slides and materials\]](https://github.com/AndreaPinna/bcschool2023/)
+
 **Introduction to the IOTA Tangle**
 
 Can Umut Ileri, IOTA Foundation & Delft University of Technology
