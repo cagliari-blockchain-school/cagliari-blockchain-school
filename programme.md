@@ -36,7 +36,7 @@ The school will take place in room III (2nd floor) of the [Palazzo delle Scienze
 | 14:00-15:30 | G. Destefanis - Analysis and auditing tools for Smart Contracts (Pt. 2) |
 | **15:30-16:00** | **Coffee break** |
 | 16:00-17:30 | S. Ferretti - Data Management for Crowd-sensed and Self Sovereign Data |
-| 17:30-17:50 | **Drink Session**  |
+| **17:30-17:50** | **Drink Session**  |
 
 ## September 15, 2023
 
