@@ -65,8 +65,7 @@ Silvia Bartolucci, UCL (UK)
 
 Cosimo Laneve, University of Bologna (IT)
 
-[\[slides\]](https://github.com/dlt-school/2023/laneve-dlt-school-2023.pdf)
-
+[\[slides\]](https://github.com/dlt-school/dlt-school.github.io/blob/main/2023/laneve-dlt-school-2023.pdf)
 
 **Financial contagion**
 
