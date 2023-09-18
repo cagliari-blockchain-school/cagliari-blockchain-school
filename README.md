@@ -57,6 +57,8 @@ Can Umut Ileri, IOTA Foundation & Delft University of Technology
 
 Mirko Zichichi, IOTA Foundation
 
+[\[slides\]](https://github.com/dlt-school/dlt-school.github.io/blob/main/2023/zichichi-dlt-school-2023.pdf)
+
 **Network theory for Decentralized Applications**
 
 Silvia Bartolucci, UCL (UK)
