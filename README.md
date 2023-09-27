@@ -110,5 +110,3 @@ After the school, the students are invited to join the [Blockchain Summerforum 2
 ## Acknowledgements
 
 The school is organised thanks to the economic and organising support of the University of Cagliari and of the IOTA Foundation.
-
-
