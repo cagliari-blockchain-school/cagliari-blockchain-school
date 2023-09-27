@@ -73,9 +73,13 @@ Cosimo Laneve, University of Bologna (IT)
 
 Fabio Caccioli, UCL (UK)
 
+[\[slides\]](https://github.com/dlt-school/dlt-school.github.io/blob/main/2023/caccioli-dlt-school-2023.pdf)
+
 **Analysis and auditing tools for Smart Contracts**
 
 Giuseppe Destefanis, Brunel University (UK)
+
+[\[slides\]](https://github.com/dlt-school/dlt-school.github.io/blob/main/2023/destefanis-dlt-school-2023.pdf)
 
 **Data Management for Crowd-sensed and Self Sovereign Data**
 
