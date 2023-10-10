@@ -53,6 +53,8 @@ Roberto Tonelli and Andrea Pinna, University of Cagliari (IT)
 
 Can Umut Ileri, IOTA Foundation & Delft University of Technology
 
+[\[slides\]](https://github.com/dlt-school/dlt-school.github.io/blob/main/2023/ileri-dlt-school-2023.pdf)
+
 **IOTA Smart Contracts and Move Tutorial**
 
 Mirko Zichichi, IOTA Foundation
