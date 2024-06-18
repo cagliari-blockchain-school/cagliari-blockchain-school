@@ -2,7 +2,7 @@
 
 # 4th Scientific School on Blockchain & Distributed Ledger Technologies
 
-**Cagliari (Italy), September 12-15, 2023**
+**Cagliari (Italy), September 10-13, 2024**
 
 Crypto economics is a new discipline born after the rise of virtual currencies and distributed ledger technologies, and is rapidly developing in a unique intersection between computing, cryptography,  law,
 economics, and game theory. The school aims at disseminating  knowledge about the foundations and the applications of these technologies to researchers, PhD students, scholars and technologists in industry and academia, not excluding under- or new graduates with strong technical drive and a sufficient background.
@@ -10,9 +10,9 @@ economics, and game theory. The school aims at disseminating  knowledge about th
 
 ## Important dates
 
-- Application deadline: ~~July 28, 2023~~
-- Notification: ~~July 31, 2023~~
-- School dates: **September 12-15, 2023**
+- Application deadline: July 28, 2023
+- Notification: July 31, 2023
+- School dates: **September 10-13, 2024**
 
 
 ## Venue & accommodation
@@ -32,78 +32,81 @@ The school plans for a maximum of 20 attendees; the attendance to the school is 
 The participants will be selected by the scientific  committee on a CV best-match basis.
 All sessions will be held in English.
 
-**Registration link**: [forms.gle/do7UXmrNiV7PVg4j8](https://forms.gle/do7UXmrNiV7PVg4j8)
+**Registration link**: [TBA]()
 
 
 ## Lectures
 
-**Which Smart Contracts Platform do you need? Evaluating Blockchain Systems with an Analysis of the Top Protocols**
+
+**Smart contract languages: an overview**
 
 Massimo Bartoletti, University of Cagliari (IT)
 
-[\[slides\]](https://docs.google.com/presentation/d/1Zw9cQ5CvJUYoig7vU1lFYrRPqV_U2YzYCfWXas2XEXo/edit?usp=sharing)
 
-**Developing Dapps in Ethereum: Theory and Practice**
+**Solidity vs. Move side-by-side**
 
-Roberto Tonelli and Andrea Pinna, University of Cagliari (IT)
+Andrea Pinna, University of Cagliari (IT)
+Alvise Spanò, Ca' Foscari University of Venice (IT)
 
-[\[slides and materials\]](https://github.com/AndreaPinna/bcschool2023/)
 
-**Introduction to the IOTA Tangle**
+**Decentralized Finance (DeFi) Protocols and their Compositions**
 
-Can Umut Ileri, IOTA Foundation & Delft University of Technology
+Pietro Saggese, IMT Lucca (IT)
 
-[\[slides\]](https://github.com/dlt-school/dlt-school.github.io/blob/main/2023/ileri-dlt-school-2023.pdf)
 
-**IOTA Smart Contracts and Move Tutorial**
+**Securing Ethereum contracts: techniques and tools**
+
+Massimo Bartoletti, University of Cagliari (IT)
+
+
+**Preventing DeFi Bugs with Formal Verification**
+
+TBA, Certora 
+
+
+**Programmable cryptography on Ethereum: a practical overview**
+
+Giacomo Corrias, Ethereum Foundation
+
+
+**Decentraland**
+
+Pablo Est, Decentraland foundation ambassador
+
+
+**IOTA Smart Contracts**
 
 Mirko Zichichi, IOTA Foundation
 
-[\[slides\]](https://github.com/dlt-school/dlt-school.github.io/blob/main/2023/zichichi-dlt-school-2023.pdf)
 
-**Network theory for Decentralized Applications**
+**Hackathon**
 
-Silvia Bartolucci, UCL (UK)
-
-**Legal Smart Contracts** 
-
-Cosimo Laneve, University of Bologna (IT)
-
-[\[slides\]](https://github.com/dlt-school/dlt-school.github.io/blob/main/2023/laneve-dlt-school-2023.pdf)
-
-**Financial contagion**
-
-Fabio Caccioli, UCL (UK)
-
-[\[slides\]](https://github.com/dlt-school/dlt-school.github.io/blob/main/2023/caccioli-dlt-school-2023.pdf)
-
-**Analysis and auditing tools for Smart Contracts**
-
-Giuseppe Destefanis, Brunel University (UK)
-
-[\[slides\]](https://github.com/dlt-school/dlt-school.github.io/blob/main/2023/destefanis-dlt-school-2023.pdf)
-
-**Data Management for Crowd-sensed and Self Sovereign Data**
-
-Stefano Ferretti, University of Urbino (IT)
+Unica & IOTA Foundation
 
 
 ## Programme
 
 Go to the [programme page](programme.md).
 
-After the school, the students are invited to join the [Blockchain Summerforum 2O23](https://www.eventbrite.it/e/biglietti-blockchain-summerforum-2o23-the-social-impact-of-crypto-activities-704307461577?aff=oddtdtcreator&fbclid=IwAR0Ftt1u3hO0XViW-1tZl2qmCmCW7JCG2lBJdgwHrBcTG8wyBwlkRa5d8ao), which will be on September 15, from 16:00 to 18:30 at [Ex Manifattura Tabacchi](https://goo.gl/maps/2qoN3T1Deyn4pPAF6). 
- 
 
 ## Scientific Committee
 
 - [Massimo Bartoletti](https://blockchain.unica.it), University of Cagliari, Italy
-- [Roberto Tonelli](https://www.unica.it/unica/it/ateneo_s07_ss01.page?contentId=SHD31003), University of Cagliari, Italy (chair)
-- [Giuseppe Destefanis](https://www.brunel.ac.uk/people/giuseppe-destefanis), Brunel University London (UK)
+- Stefano Ferretti, University of Bologna, Italy
+- Claudio Schifanella, Università di Torino, Italy
+- Francesco Tiezzi, Università degli Studi di Firenze, Italy
+- [Roberto Tonelli](https://www.unica.it/unica/it/ateneo_s07_ss01.page?contentId=SHD31003), University of Cagliari, Italy
+
+
+## Organizing Committee
+
+- Andrea Pinna, University of Cagliari, Italy
+- Maria Ilaria Lunesu, University of Cagliari, Italy
 
 
 ## Past editions
 
+- [2023](2023/)
 - [2022](2022/)
 - [2019](2019/)
 - [2018](2018/)
