@@ -1,6 +1,4 @@
-![image](4th-dlt-school-logo.jpg)
-
-# 4th Scientific School on Blockchain & Distributed Ledger Technologies
+# 5th Scientific School on Blockchain & Distributed Ledger Technologies
 
 **Cagliari (Italy), September 10-13, 2024**
 
@@ -10,8 +8,8 @@ economics, and game theory. The school aims at disseminating  knowledge about th
 
 ## Important dates
 
-- Application deadline: July 28, 2023
-- Notification: July 31, 2023
+- Application deadline: July 15, 2024
+- Notification: July 19, 2024
 - School dates: **September 10-13, 2024**
 
 
@@ -79,9 +77,16 @@ Pablo Est, Decentraland foundation ambassador
 Mirko Zichichi, IOTA Foundation
 
 
-**Hackathon**
+## Hackathon & Awards
 
-Unica & IOTA Foundation
+In the last two days of the school on smart contract programming will be assigned to the school participants. Participants will be grouped by the school organizers according to their background and expertise. The groups, composed of 3 students each, will work on the projects offline after the school, also interacting with the school organizers.
+
+After the school, participants will submit the code of projects to the evaluation committee. 
+The best three projects will receive an award in IOTA crypto-currency. The amounts of the awards are the following:
+
+1st prize (2500 EUR)
+2nd prize (1500 EUR)
+3rd prize (1000 EUR)
 
 
 ## Programme
