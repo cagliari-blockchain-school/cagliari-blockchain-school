@@ -1,3 +1,5 @@
+![image](5th-dlt-school-logo.jpg)
+
 # 5th Scientific School on Blockchain & Distributed Ledger Technologies
 
 **Cagliari (Italy), September 10-13, 2024**
