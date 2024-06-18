@@ -79,14 +79,14 @@ Mirko Zichichi, IOTA Foundation
 
 ## Hackathon & Awards
 
-In the last two days of the school on smart contract programming will be assigned to the school participants. Participants will be grouped by the school organizers according to their background and expertise. The groups, composed of 3 students each, will work on the projects offline after the school, also interacting with the school organizers.
+Besides the lectures and lab sessions, the school will feature an hackathon on IOTA smart contracts. Participants will be grouped by the school organizers according to their background and expertise. The groups, composed of 3 students each, will start their projects during the last two days of the school. Projects can be completed offline after the school ends.
 
-After the school, participants will submit the code of projects to the evaluation committee. 
-The best three projects will receive an award in IOTA crypto-currency. The amounts of the awards are the following:
-
-1st prize (2500 EUR)
-2nd prize (1500 EUR)
-3rd prize (1000 EUR)
+Projects will be evaluated by the school organizers and the IOTA Foundation. 
+The best three projects will receive an award in IOTA cryptocurrency.
+The amounts of the awards are the following:
+- **1st prize** (2500 EUR)
+- **2nd prize** (1500 EUR)
+- **3rd prize** (1000 EUR)
 
 
 ## Programme
