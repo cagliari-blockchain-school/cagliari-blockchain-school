@@ -37,8 +37,11 @@ All sessions will be held in English.
 
 ## Lectures
 
-
-**Smart contract languages: an overview**
+<details>
+<summary><b>Smart contract languages: an overview</b></summary>
+Decentralized blockchain platforms support the secure exchange of assets among users without relying on trusted third parties. These exchanges are programmed with smart contracts, computer programs directly executed by blockchain nodes. 
+Multiple smart contract languages are available nowadays to developers, each with its own distinctive features, strengths, and weaknesses. In this lecture, we examine the smart contract languages used in six major blockchain platforms: Ethereum, Solana, Cardano, Algorand, Aptos, and Tezos. Starting with a high-level overview of their design choices, we discuss their programming style, security, code readability, and usability.
+</details>
 
 Massimo Bartoletti, University of Cagliari (IT)
 
