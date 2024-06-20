@@ -77,8 +77,10 @@ Giacomo Corrias, Ethereum Foundation
 
 Pablo Est, Decentraland foundation ambassador
 
-
-**IOTA Smart Contracts**
+<details>
+<summary><b>IOTA Smart Contracts</b></summary>
+The IOTA DLT supports the execution of Move smart contracts on the Layer 1. In particular, the IOTA smart contract platform supports the Sui Move flavour. In this flavour the concept of Object is central, that is, the ledger is composed of a series of Objects defined by Move structs and indexed by a key. This allows to have so called ‘owned objects’, that behaves similarly to UTXOs, and shared objects, that behaves similarly to shared accounts. The Object-based ledger, thus, mixes the benefits of a UTXO-based model and a Account-based model.
+</details>
 
 Mirko Zichichi, IOTA Foundation
 
