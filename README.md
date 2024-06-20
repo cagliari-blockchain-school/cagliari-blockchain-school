@@ -56,7 +56,7 @@ Pietro Saggese, IMT Lucca (IT)
 
 **Securing Ethereum contracts: techniques and tools**
 
-Massimo Bartoletti, University of Cagliari (IT)
+Dalila Ressi, Ca' Foscari University of Venice (IT)
 
 <details>
 <summary><b>Preventing DeFi Bugs with Formal Verification</b></summary>
