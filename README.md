@@ -58,13 +58,12 @@ Pietro Saggese, IMT Lucca (IT)
 
 Massimo Bartoletti, University of Cagliari (IT)
 
-**Preventing DeFi Bugs with Formal Verification**
-
-TBA, Certora 
-<details open>
-<summary>Abstract</summary>
+<details>
+<summary><b>Preventing DeFi Bugs with Formal Verification</b></summary>
 Join us for an engaging workshop on the Certora Prover, a cutting-edge formal verification tool designed to uncover bugs in DeFi smart contracts. We will begin with a brief lecture introducing the fundamentals of formal verification, its underlying principles, and its unique advantages. The primary focus of the workshop will be a hands-on exercise, where participants will learn to write specifications in CVL, the Certora Verification Language. The participants will test smart contract code against their specification using the Certora Prover. This session is ideal for those looking to deepen their understanding of formal verification and smart contract security.
 </details>
+
+TBA, Certora 
 
 **Programmable cryptography on Ethereum: a practical overview**
 
@@ -123,4 +122,4 @@ Go to the [programme page](programme.md).
 
 ## Acknowledgements
 
-The school is organised thanks to the economic and organising support of the University of Cagliari and of the IOTA Foundation.
+The school is organised thanks to the economic and organising support of the University of Cagliari, of the [SERICS project](https://serics.eu/), and of the IOTA Foundation.
