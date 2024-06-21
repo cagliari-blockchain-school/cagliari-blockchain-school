@@ -73,9 +73,9 @@ TBA, Certora
 Giacomo Corrias, Ethereum Foundation
 
 
-**Decentraland**
+**Blockchain virtual worlds**
 
-Pablo Est, Decentraland foundation ambassador
+TBA
 
 <details>
 <summary><b>IOTA Smart Contracts</b></summary>
