@@ -45,8 +45,25 @@ Multiple smart contract languages are available nowadays to developers, each wit
 
 Massimo Bartoletti, University of Cagliari (IT)
 
+<details>
+  <summary><b>Solidity vs. Move side-by-side</b></summary>
+  In this lecture we give a side-by-side overview of two of the main
+smart contract languages: Solidity and Move.
+Solidity is the most widespread language for smart contracts, used
+since 2015 on Ethereum and later adopted by several other blockchain
+platforms. Move was originally designed for the (now abandoned)
+Libra/Diem blockchain, and it is currently used by Aptos, Sui and IOTA.
+Each language has its own strengths and weaknesses. Solidity is easy
+to learn and has a large ecosystem of development tools, but it is
+prone to quirks that can lead to vulnerabilities. Move, on the other
+hand, is designed to ensure the safe handling of assets, enforcing
+their conservation and preventing duplication through its linear type
+system, albeit at the cost of a more convoluted programming style.
+During this lecture we will illustrate Solidity and Move through a
+common set of use cases; in the meanwhile, we will discuss their
+design principles, programming style and security implications.
+</details>
 
-**Solidity vs. Move side-by-side**
 
 Andrea Pinna, University of Cagliari (IT)
 Alvise Spanò, Ca' Foscari University of Venice (IT)
