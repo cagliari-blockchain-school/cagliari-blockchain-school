@@ -32,7 +32,7 @@ The school plans for a maximum of 20 attendees; the attendance to the school is 
 The participants will be selected by the scientific  committee on a CV best-match basis.
 All sessions will be held in English.
 
-**Registration link**: [TBA]()
+**Registration link**: [forms.gle/bBdBLTu5986NEz4j8](https://forms.gle/bBdBLTu5986NEz4j8)
 
 
 ## Lectures
