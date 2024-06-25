@@ -48,5 +48,6 @@ The school will take place in Aula Magna di Fisica (1st floor) of the [Palazzo d
 | 9:00-10:30 | Hackathon | 
 | **10.30-11:00** | **Coffee break** | 
 | 11:00-12:30 | Hackathon |
-| **12:30-14:00** | **Closing & Lunch** |
-
+| **12:30-14:00** | **Lunch** |
+| 14:00-15:30 | Hackathon Groups Presentations: Project Ideas and Initial Results |
+| **15:30-16:00** | **Closing** |
