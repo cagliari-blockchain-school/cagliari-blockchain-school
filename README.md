@@ -38,7 +38,7 @@ All sessions will be held in English.
 ## Lectures
 
 <details>
-<summary><b>Smart contract languages: an overview</b></summary>
+<summary><b>Smart Contract Languages: a Comparative Analysis</b></summary>
 Decentralized blockchain platforms support the secure exchange of assets among users without relying on trusted third parties. These exchanges are programmed with smart contracts, computer programs directly executed by blockchain nodes. 
 Multiple smart contract languages are available nowadays to developers, each with its own distinctive features, strengths, and weaknesses. In this lecture, we examine the smart contract languages used in six major blockchain platforms: Ethereum, Solana, Cardano, Algorand, Aptos, and Tezos. Starting with a high-level overview of their design choices, we discuss their programming style, security, code readability, and usability.
 </details>
@@ -74,7 +74,7 @@ Alvise Spanò, Ca' Foscari University of Venice (IT)
 Pietro Saggese, IMT Lucca (IT)
 
 
-**Securing Ethereum contracts: techniques and tools**
+**Securing Ethereum Contracts: Techniques and Tools**
 
 Dalila Ressi, Ca' Foscari University of Venice (IT)
 
@@ -85,7 +85,7 @@ Join us for an engaging workshop on the Certora Prover, a cutting-edge formal ve
 
 TBA, Certora 
 
-**Programmable cryptography on Ethereum: a practical overview**
+**Programmable Cryptography on Ethereum: a Practical Overview**
 
 Giacomo Corrias, Ethereum Foundation
 
@@ -98,9 +98,9 @@ The IOTA DLT supports the execution of Move smart contracts on the Layer 1. In p
 Mirko Zichichi, IOTA Foundation
 
 
-## Hackathon & Awards
+## CTF, Hackathon & Awards
 
-Besides the lectures and lab sessions, the school will feature an hackathon on IOTA smart contracts. Participants will be grouped by the school organizers according to their background and expertise. The groups, composed of 3 students each, will start their projects during the last two days of the school. Projects can be completed offline after the school ends.
+Besides the lectures and lab sessions, the school will feature a CTF competition and an hackathon on IOTA smart contracts. Participants will be grouped by the school organizers according to their background and expertise. The groups, composed of 3 students each, will start their projects during the last two days of the school. Projects can be completed offline after the school ends.
 
 Projects will be evaluated by the school organizers and the IOTA Foundation. 
 The best three projects will receive an award in IOTA cryptocurrency.
