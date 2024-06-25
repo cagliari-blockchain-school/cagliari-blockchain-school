@@ -1,12 +1,14 @@
 # Programme
 
-The school will take place in room III (2nd floor) of the [Palazzo delle Scienze](https://goo.gl/maps/w5PtoZ6fbqUs6ToS9), via Ospedale 72, Cagliari.
+**This preliminary schedule is subject to change!**
+
+The school will take place in Aula Magna di Fisica (1st floor) of the [Palazzo delle Scienze](https://goo.gl/maps/w5PtoZ6fbqUs6ToS9), via Ospedale 72, Cagliari.
 
 ## September 10, 2024
 
 | Time   | Lecture |
 | :---: | :---: |
-| **13.00-14.30** | **Opening & Welcome buffet** | 
+| **9.00-10.00** | **Opening** | 
 | 14:30-16:00 | TBA | 
 | **16:00-16:30** | **Coffee break** |
 | 16:30-18:00 | TBA |
