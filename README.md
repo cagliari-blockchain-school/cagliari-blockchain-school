@@ -64,7 +64,6 @@ common set of use cases; in the meanwhile, we will discuss their
 design principles, programming style and security implications.
 </details>
 
-
 Andrea Pinna, University of Cagliari (IT)
 Alvise Spanò, Ca' Foscari University of Venice (IT)
 
@@ -74,9 +73,13 @@ Alvise Spanò, Ca' Foscari University of Venice (IT)
 Pietro Saggese, IMT Lucca (IT)
 
 
-**Securing Ethereum Contracts: Techniques and Tools**
+<details>
+<summary><b>Securing Ethereum Contracts: Techniques and Tools (with a glimpse on AI)</b></summary>  
+Ethereum smart contracts are self-executing programs with terms encoded on the Ethereum blockchain. By enabling decentralized applications (dApps), they revolutionize industries such as finance, supply chain, and real estate. However, the immutability of the blockchain amplifies the catastrophic effects of bugs or vulnerabilities in these contracts. In this lesson, we will explore some of the most common vulnerabilities and how, in some cases, they caused the loss of millions of dollars worth of ether. We will then examine the tools available to developers to detect these vulnerabilities before deployment, comparing methods using classical techniques like static analysis and modern approaches such as machine learning and AI.
+</details>
 
 Dalila Ressi, Ca' Foscari University of Venice (IT)
+
 
 <details>
 <summary><b>Preventing DeFi Bugs with Formal Verification</b></summary>
