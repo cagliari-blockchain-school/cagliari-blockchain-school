@@ -88,7 +88,10 @@ Join us for an engaging workshop on the Certora Prover, a cutting-edge formal ve
 
 TBA, Certora 
 
-**Programmable Cryptography on Ethereum: a Practical Overview**
+<details>
+<summary><b>Programmable Cryptography on Ethereum: a Practical Overview</b></summary>
+Ethereum can now be programmed in innovative ways, thanks to the latest advances in cryptography. These new building blocks enable developers to incorporate advanced privacy features into their decentralized applications. However, the perceived complexity and misconceptions around cryptography and privacy can hinder its adoption. This lecture aims to demystify programmable cryptography, covering key concepts and practical applications. We will explore the next generation of cryptographic techniques, including Zero-Knowledge Proofs (ZKP), Multi-Party Computation (MPC), and Fully Homomorphic Encryption (FHE). The second half will be a deep dive into Semaphore, a privacy-focused ZKP protocol, examining its design and concepts, libraries and applications; with an hands-on session. 
+</details>
 
 Giacomo Corrias, Ethereum Foundation
 
