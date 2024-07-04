@@ -68,7 +68,10 @@ Andrea Pinna, University of Cagliari (IT)
 Alvise Spanò, Ca' Foscari University of Venice (IT)
 
 
-**Decentralized Finance (DeFi) Protocols and their Compositions**
+<details>
+<summary><b>Decentralized Finance (DeFi) Protocols and their Compositions</b></summary>
+Decentralized finance (DeFi) builds on distributed ledger technologies (DLT) to offer services such as trading, lending and investing without using a traditional centralized intermediary. A range of DeFi protocols implements these services as a suite of smart contracts. In this lecture, we will explore the core components of the most relevant DeFi protocols, such as Decentralized Exchanges (DEXs) and Protocols for Loanable Funds (PLFs). Next, we will discuss how they can interoperate. The fact that DeFi smart contracts can be "composed", i.e. utilize the functionalities of other protocols to provide novel financial services, introduces enormous technological and economic complexity that makes it increasingly difficult to assess the risks and potential of DeFi financial products. 
+</details>
 
 Pietro Saggese, IMT Lucca (IT)
 
