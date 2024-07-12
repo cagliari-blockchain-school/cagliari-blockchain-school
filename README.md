@@ -107,6 +107,15 @@ The IOTA DLT supports the execution of Move smart contracts on the Layer 1. In p
 Mirko Zichichi, IOTA Foundation
 
 
+<summary><b>Building the Open Metaverse with NFTs and Blockchain Technology</b></summary>
+The metaverse is a loosely defined term referring to virtual worlds in which users represented by avatars interact, usually in 3D and focused on social and economic connection. The term "metaverse" is often linked to virtual reality technology, and beginning in the early 2020s, with Web3. The term has been used as a buzzword by companies to exaggerate the development progress of various related technologies and projects for public relations purposes. Besides marketing purposes, there are real cases
+of the development of platforms that are actually used by hundreds of thousands of users, like The Sandbox. In this lecture, we will take an in-depth look at The Sandbox's platform by showing all the blockchain-based integrations that make it decentralised,
+starting with the proprietary token, the use of DeFi to incentivise holders, moving on to NFTs, the transition from L1 to L2, and ending with the DAO.
+</details>
+
+Luca Clementi, The Sandbox
+
+
 ## CTF, Hackathon & Awards
 
 Besides the lectures and lab sessions, the school will feature a CTF competition and an hackathon on IOTA smart contracts. Participants will be grouped by the school organizers according to their background and expertise. The groups, composed of 3 students each, will start their projects during the last two days of the school. Projects can be completed offline after the school ends.
@@ -126,7 +135,7 @@ Go to the [programme page](programme.md).
 
 ## Scientific Committee
 
-- [Massimo Bartoletti](https://blockchain.unica.it), University of Cagliari, Italy
+- [Massimo Bartoletti](https://blockchain.unica.it), University of Cagliari, Italy (chair)
 - Stefano Ferretti, University of Bologna, Italy
 - Claudio Schifanella, Università di Torino, Italy
 - Francesco Tiezzi, Università degli Studi di Firenze, Italy
