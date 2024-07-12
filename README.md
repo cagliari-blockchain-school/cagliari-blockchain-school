@@ -107,6 +107,7 @@ The IOTA DLT supports the execution of Move smart contracts on the Layer 1. In p
 Mirko Zichichi, IOTA Foundation
 
 
+<details>
 <summary><b>Building the Open Metaverse with NFTs and Blockchain Technology</b></summary>
 The metaverse is a loosely defined term referring to virtual worlds in which users represented by avatars interact, usually in 3D and focused on social and economic connection. The term "metaverse" is often linked to virtual reality technology, and beginning in the early 2020s, with Web3. The term has been used as a buzzword by companies to exaggerate the development progress of various related technologies and projects for public relations purposes. Besides marketing purposes, there are real cases
 of the development of platforms that are actually used by hundreds of thousands of users, like The Sandbox. In this lecture, we will take an in-depth look at The Sandbox's platform by showing all the blockchain-based integrations that make it decentralised,
