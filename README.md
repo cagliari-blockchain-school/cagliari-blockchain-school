@@ -117,6 +117,14 @@ starting with the proprietary token, the use of DeFi to incentivise holders, mov
 Luca Clementi, The Sandbox
 
 
+<details>
+<summary><b>Maximal Extractable Value (MEV)</b></summary>
+TBA
+</details>
+
+Christof Ferreira Torres, University of Lisbon
+
+
 ## CTF, Hackathon & Awards
 
 Besides the lectures and lab sessions, the school will feature a CTF competition and an hackathon on IOTA smart contracts. Participants will be grouped by the school organizers according to their background and expertise. The groups, composed of 3 students each, will start their projects during the last two days of the school. Projects can be completed offline after the school ends.
