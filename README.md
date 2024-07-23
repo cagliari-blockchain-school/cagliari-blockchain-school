@@ -118,8 +118,8 @@ Luca Clementi, The Sandbox
 
 
 <details>
-<summary><b>Maximal Extractable Value (MEV)</b></summary>
-TBA
+<summary><b>Exploring the Dark Forest: An Introduction to Maximal Extractable Value (MEV)</b></summary>
+This lecture provides an introduction to Maximal Extractable Value (MEV), a critical and increasingly relevant topic in the context of blockchain and decentralized finance (DeFi). MEV represents the potential profit that can be extracted by validators, miners, or normal users through their ability to reorder, include, or exclude transactions within a block. We will explore the foundational principles of MEV, its origins, and its implications for network participants, and the various strategies used to capture it. The session will not only provide insights into the mechanics of MEV, but it will also cover its implications for the fairness and efficiency of blockchain systems, and the associated ethical and technical challenges. The lecture will also highlight current mitigation strategies and ongoing research efforts aimed at addressing the complexities of MEV. By the end of the session, participants will have a solid understanding of MEV and its impact on the broader DeFi landscape.
 </details>
 
 Christof Ferreira Torres, University of Lisbon
