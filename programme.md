@@ -36,7 +36,7 @@ The school will take place in Aula Magna di Fisica (1st floor) of the [Palazzo d
 | **10.30-11:00** | **Coffee break** | 
 | 11:00-12:30 | IOTA CTF |
 | **12:30-14:00** | **Lunch break** |
-| 14:00-15:30 | C. Ferreira Torres - MEV |
+| 14:00-15:30 | C. Ferreira Torres - Exploring the Dark Forest: An Introduction to Maximal Extractable Value (MEV) |
 | **15:30-16:00** | **Coffee break** |
 | 16:00-17:30 | Hackathon |
 | **17:30-17:50** | **Drink Session**  |
