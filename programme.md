@@ -23,7 +23,7 @@ The school will take place in Aula Magna di Fisica (1st floor) of the [Palazzo d
 | **10.30-11:00** | **Coffee break** | 
 | 11:00-12:30 | D. Ressi - Securing Ethereum Contracts: Techniques and Tools |
 | **12:30-14:00** | **Lunch break** |
-| 14:00-15:30 | Certora - Preventing DeFi Bugs with Formal Verification |
+| 14:00-15:30 | S. Shamir - Preventing DeFi Bugs with Formal Verification |
 | **15:30-16:00** | **Coffee break** |
 | 16:00-17:30 | G. Corrias - Programmable Cryptography on Ethereum: a Practical Overview |
 | **20:30-23:00** | Social dinner at [TBA]() |
