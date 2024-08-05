@@ -89,7 +89,7 @@ Dalila Ressi, Ca' Foscari University of Venice (IT)
 Join us for an engaging workshop on the Certora Prover, a cutting-edge formal verification tool designed to uncover bugs in DeFi smart contracts. We will begin with a brief lecture introducing the fundamentals of formal verification, its underlying principles, and its unique advantages. The primary focus of the workshop will be a hands-on exercise, where participants will learn to write specifications in CVL, the Certora Verification Language. The participants will test smart contract code against their specification using the Certora Prover. This session is ideal for those looking to deepen their understanding of formal verification and smart contract security.
 </details>
 
-Shoham Shamir, Certora 
+Pamina Georgiu, Certora 
 
 <details>
 <summary><b>Programmable Cryptography on Ethereum: a Practical Overview</b></summary>
