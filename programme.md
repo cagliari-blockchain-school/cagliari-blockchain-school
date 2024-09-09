@@ -8,8 +8,9 @@ The school will take place in Aula Magna di Fisica (1st floor) of the [Palazzo d
 
 | Time   | Lecture |
 | :---: | :---: |
-| **10.00-11.00** | **Opening** | 
-| 11:00-12:30 | M. Bartoletti - Smart Contract Languages: a Comparative Analysis |
+| **10.00-11.00** | **Opening** |
+| 11.00-11.15 | F. Sainas - Tutorial: Certora installation|
+| 11:15-12:30 | M. Bartoletti - Smart Contract Languages: a Comparative Analysis |
 | **12:30-14:00** | **Lunch break** |
 | 14:30-16:00 | A. Pinna, A. Spanò - Solidity vs. Move side-by-side (pt. 1) | 
 | **16:00-16:30** | **Coffee break** |
