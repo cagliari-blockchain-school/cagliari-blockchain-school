@@ -1,7 +1,5 @@
 # Programme
 
-**This preliminary schedule is subject to change!**
-
 The school will take place in Aula Magna di Fisica (1st floor) of the [Palazzo delle Scienze](https://goo.gl/maps/w5PtoZ6fbqUs6ToS9), via Ospedale 72, Cagliari.
 
 ## September 10, 2024
@@ -9,7 +7,8 @@ The school will take place in Aula Magna di Fisica (1st floor) of the [Palazzo d
 | Time   | Lecture |
 | :---: | :---: |
 | **10.00-11.00** | **Opening** |
-| 11.00-11.15 | F. Sainas - Tutorial: Certora installation|
+| 11.00-11.05 | A. Pinna, M. I. Lunesu: Welcome from the organizers|
+| 11.05-11.15 | F. Sainas - Tutorial: Certora installation|
 | 11:15-12:30 | M. Bartoletti - Smart Contract Languages: a Comparative Analysis |
 | **12:30-14:00** | **Lunch break** |
 | 14:30-16:00 | A. Pinna, A. Spanò - Solidity vs. Move side-by-side (pt. 1) | 
