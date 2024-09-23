@@ -167,6 +167,7 @@ Go to the [programme page](programme.md).
 
 ## Acknowledgements
 
-The school is organised thanks to the economic and organising support of the University of Cagliari, of the [SERICS project](https://serics.eu/), and of the IOTA Foundation.
+The school is organised thanks to the economic and organising support of the Department of Mathematics and Computer Science of the University of Cagliari, of the [SERICS project](https://serics.eu/), and of the IOTA Foundation.
 
 ![image](serics-logo.png)
+![image](logo-unica.png)
